@@ -1,52 +1,83 @@
-![BRIAREOS'S BANNER](Banner.png)
+<div align="center">
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Briareos_1) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCAQBY0lyk3YVwOnCGPUkEGg)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+# Nice Vice Labs
 
-This account has been created to offer support and sharing knowledge with those who find self-improvement a valuable challenge. I firmly believe that solving challenges and setting new goals are essential for each individual to achieve success in their path. Therefore, I trust that you will find this space interesting and useful if you are passionate about the wide universe of programming.
+**Building digital products, technical solutions, and software experiments.**
 
-
-## CORE SKILLS
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<p>
+  <img src="https://img.shields.io/badge/Website-coming%20soon-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website coming soon" />
+  <img src="https://img.shields.io/badge/LinkedIn-coming%20soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn coming soon" />
+  <img src="https://img.shields.io/badge/X-coming%20soon-000000?style=for-the-badge&logo=x&logoColor=white" alt="X coming soon" />
+  <img src="https://img.shields.io/badge/YouTube-coming%20soon-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube coming soon" />
 </p>
 
-## CODE EDITORS
-<p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
+</div>
 
+---
 
-## FRONTEND SKILLS
+## About
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap"/></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-</p>
+Nice Vice Labs is a technology-focused startup working on software products, digital platforms, and applied engineering solutions.
 
-## BACKEND AND DATABASE SKILLS
+We explore, design, and build projects across web development, mobile applications, Salesforce solutions, automation, backend systems, and modern software ecosystems.
 
-<p align="left">
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-</p>
+Our work is driven by practical problem-solving, technical quality, and long-term maintainability.
 
-## OTHER SKILLS
+---
 
-<p align="left">
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+## What We Build
 
-## MOST USED LANGUAGES
-![Briareos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Briareeos&show_icons=true&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briareeos&layout=compact&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1)
+We focus on technology projects that combine software engineering, product thinking, and real-world utility.
 
+Main areas of work include:
 
-## YOUTUBE VIDEOS
+- Web platforms and digital products
+- Mobile applications
+- Salesforce-based solutions
+- Backend services and APIs
+- Automation tools and internal systems
+- Technical prototypes and experiments
+- Software documentation and knowledge systems
 
-<!-- BEGIN YOUTUBE-CARDS -->
+---
 
-<!-- END YOUTUBE-CARDS -->
+## Technology Areas
+
+Our projects may involve different technologies depending on the product, technical requirements, and target environment.
+
+Common areas include:
+
+- Web technologies
+- Mobile development
+- Backend engineering
+- Cloud-ready systems
+- CRM and Salesforce ecosystems
+- Data-driven applications
+- Automation and developer tooling
+- Technical documentation
+
+---
+
+## Public Work
+
+This GitHub organization is used to publish selected projects, experiments, documentation, and technical resources developed by Nice Vice Labs.
+
+Some repositories may represent active products, while others may be prototypes, research-oriented work, internal tools, or technical explorations.
+
+Each public repository is intended to include clear context, setup instructions, and relevant documentation when applicable.
+
+---
+
+## Vision
+
+Nice Vice Labs aims to build useful, maintainable, and scalable technology solutions while continuously exploring new tools, platforms, and development approaches.
+
+We believe in combining engineering discipline with experimentation to create software that can evolve over time.
+
+---
+
+## Contact
+
+Nice Vice Labs is currently organizing its public communication channels.
+
+For now, this GitHub organization is the main technical space where our projects, experiments, and documentation will be published.
